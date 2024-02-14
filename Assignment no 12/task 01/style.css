@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #dde9ea;
+}
+table{
+    background-color: transparent;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-spacing: 0px 30px;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 80px;
+    color: grey;
+}
+
+.td1{
+    background-color: transparent !important;
+    color: #707070 !important;
+    border: none !important;
+    font-weight: bold;
+}
+.td2{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    margin-left: 30px;
+    padding: 20px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.td3{
+    background-color: rgb(255, 255, 255);
+}
+.td4{
+    background-color: rgb(255, 255, 255);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}

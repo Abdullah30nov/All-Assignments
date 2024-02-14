@@ -1,0 +1,127 @@
+* {
+    position: relative;
+}
+
+.news {
+    border: 5px solid #000;
+    font-size: 58px;
+    text-align: center;
+    width: 99%;
+    height: 150px;
+    background-image: linear-gradient(180deg, white, pink);
+    margin-top: 30px;
+}
+
+.news-h1 {
+    margin-top: 0;
+}
+
+.option {
+    display: flex;
+    gap: 9.5%;
+    width: 99%;
+    border: 4px solid #000000a7;
+    text-align: center;
+    background-image: linear-gradient(180deg, white, rgba(255, 255, 0, 0.434));
+}
+
+.new {
+    margin-left: 45px;
+}
+
+.h-3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 160px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.img {
+    position: absolute;
+    right: 30px;
+    top: 650px;
+    border: 3px solid #000;
+}
+
+.img2 {
+    position: absolute;
+    left: 460px;
+    top: 670px;
+    opacity: 2;
+    border: 1px solid #000;
+}
+
+.para1 {
+    width: 32%;
+    position: absolute;
+    top: 620px;
+    font-size: 30px;
+}
+
+.para2 {
+    font-size: 30px;
+    width: 30%;
+    position: absolute;
+    left: 430px;
+    top: 1090px;
+}
+
+.para3 {
+    font-size: 30px;
+    width: 32%;
+    position: absolute;
+    right: 0px;
+    top: 1090px;
+}
+
+.classroom {
+    border: 2px solid #000;
+    text-align: center;
+    width: 30%;
+    position: absolute;
+    right: 10px;
+    top: 1710px;
+    height: 80px;
+    background-color: #e7f9ff;
+}
+
+.fdclass {
+    font-size: 28px;
+    margin-top: 0;
+}
+
+.page-05 {
+    font-size: 20px;
+}
+
+.inside-img {
+    border: 1px solid #000;
+    width: 80vh;
+    height: 9vh;
+    font-size: 20px;
+    position: absolute;
+    right: 300px;
+    top: 1040px;
+    background-color: white;
+}
+
+.bcod {
+    border: 2px solid #000;
+    text-align: left;
+    width: 30%;
+    position: absolute;
+    right: 10px;
+    top: 1810px;
+    height: 110px;
+}
+
+.imgcode {
+    margin: 8px;
+}
+
+.oct {
+    font-size: 19px;
+    position: absolute;
+    right: 29px;
+    top: 1820px;
+}
